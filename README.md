@@ -1,10 +1,6 @@
 
 # Please don’t disturb me. I’m hating.
 
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api?username=hanxv&count_private=true&show_icons=true&theme=graywhite&hide_border=true&icon_color=586069&title_color=a0a9af">
-</a>
-
 *I'm very busy on vacationeven if don't working. So please remember the title.*
 
 ---
@@ -21,7 +17,7 @@ About
 ---
 ![MIT License](https://img.shields.io/badge/-MIT%20License-3DA639?style=flat-square&logo=Open%20Source%20Initiative&logoColor=fff&labelColor=3DA639) ![BSD 2 Clause License](https://img.shields.io/badge/-BSD%202%20Clause%20License-3DA639?style=flat-square&logo=Open%20Source%20Initiative&logoColor=fff&labelColor=3DA639)
 
-![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat-square&logo=Arch%20Linux&logoColor=fff&labelColor=1793D1) ![FreeBSD](https://img.shields.io/badge/-FreeBSD-AB2B28?style=flat-square&logo=FreeBSD&logoColor=fff&labelColor=AB2B28) ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=fff&labelColor=0078D6) ![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=Debian&logoColor=fff&labelColor=A81D33) ![openSUSE](https://img.shields.io/badge/-openSUSE-73BA25?style=flat-square&logo=openSUSE&logoColor=fff&labelColor=73BA25) ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=fff&labelColor=3DDC84)
+![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat-square&logo=Arch%20Linux&logoColor=fff&labelColor=1793D1) ![FreeBSD](https://img.shields.io/badge/-FreeBSD-AB2B28?style=flat-square&logo=FreeBSD&logoColor=fff&labelColor=AB2B28) ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=fff&labelColor=0078D6) ![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=Debian&logoColor=fff&labelColor=A81D33) ![openSUSE](https://img.shields.io/badge/-openSUSE-73BA25?style=flat-square&logo=openSUSE&logoColor=fff&labelColor=73BA25) ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=fff&labelColor=3DDC84) ![iOS](https://img.shields.io/badge/-iPhone-888888?style=flat-square&logo=iOS&logoColor=fff&labelColor=888888)
 
 ![Blackberry](https://img.shields.io/badge/-Blackberry-000?style=flat-square&logo=Blackberry&logoColor=fff&labelColor=000) ![OnePlus](https://img.shields.io/badge/-OnePlus-F5010C?style=flat-square&logo=OnePlus&logoColor=fff&labelColor=F5010C) ![Samsung](https://img.shields.io/badge/-Samsung-1428A0?style=flat-square&logo=Samsung&logoColor=fff&labelColor=1428A0) ![LineageOS](https://img.shields.io/badge/-LineageOS-167C80?style=flat-square&logo=LineageOS&logoColor=fff&labelColor=167C80)
 
@@ -31,13 +27,10 @@ About
 
 ![Emby](https://img.shields.io/badge/-Emby-52B54B?style=flat-square&logo=Emby&logoColor=fff&labelColor=52B54B)
 
-> I'm used to using Golang, best at C/C++, dabble in other common programming languages.
+Follow me
+---
+[![Blog](https://img.shields.io/badge/-https://blog.hanxv.com-0e83cd?style=flat-square&logo=Hexo&logoColor=fff&labelColor=0e83cd)](https://blog.hanxv.com)  [![Telegram](https://img.shields.io/badge/-@Hanxv-3db6f1?style=flat-square&logo=Telegram&logoColor=2ca5e0&labelColor=3db6f1)](https://t.me/Hanxv) [![Mail](https://img.shields.io/badge/-github@hanxv.com-911318?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=c14438)](mailto:github_at_hanxv.com)
+> About my blog. I will update it again one day maybe. Contact me by email, telegram, mobile phone.
 > Recommend to communicate with me in the following languages.
 
 ![](https://img.shields.io/badge/-🇨🇳简体中文-4285F4?style=flat-square&logo=Google%20Translate&logoColor=fff&labelColor=4285F4) ![](https://img.shields.io/badge/-🇹🇼繁體中文-4285F4?style=flat-square&logo=Google%20Translate&logoColor=fff&labelColor=4285F4) ![](https://img.shields.io/badge/-🇭🇰粤文-4285F4?style=flat-square&logo=Google%20Translate&logoColor=fff&labelColor=4285F4) ![](https://img.shields.io/badge/-🇯🇵日本語-4285F4?style=flat-square&logo=Google%20Translate&logoColor=fff&labelColor=4285F4) ![](https://img.shields.io/badge/-🇰🇷한국어-4285F4?style=flat-square&logo=Google%20Translate&logoColor=fff&labelColor=4285F4) ![](https://img.shields.io/badge/-🇺🇸English-4285F4?style=flat-square&logo=Google%20Translate&logoColor=fff&labelColor=4285F4) ![](https://img.shields.io/badge/-🇫🇷français-4285F4?style=flat-square&logo=Google%20Translate&logoColor=fff&labelColor=4285F4) ![](https://img.shields.io/badge/-🇩🇪Deutsche-4285F4?style=flat-square&logo=Google%20Translate&logoColor=fff&labelColor=4285F4) ![](https://img.shields.io/badge/-🇷🇺русский-4285F4?style=flat-square&logo=Google%20Translate&logoColor=fff&labelColor=4285F4) ![](https://img.shields.io/badge/-🇵🇱Polskie-4285F4?style=flat-square&logo=Google%20Translate&logoColor=fff&labelColor=4285F4) ![](https://img.shields.io/badge/-🇪🇸Español-4285F4?style=flat-square&logo=Google%20Translate&logoColor=fff&labelColor=4285F4) ![](https://img.shields.io/badge/-🇮🇹italiano-4285F4?style=flat-square&logo=Google%20Translate&logoColor=fff&labelColor=4285F4)
-
-
-Follow me
----
-[![Blog](https://img.shields.io/badge/-https://hanxv.pw-0e83cd?style=flat-square&logo=Hexo&logoColor=fff&labelColor=0e83cd)](https://hanxv.pw)  [![Telegram](https://img.shields.io/badge/-@Hanxv-3db6f1?style=flat-square&logo=Telegram&logoColor=2ca5e0&labelColor=3db6f1)](https://t.me/Hanxv) [![Mail](https://img.shields.io/badge/-github@hanxv.com-911318?style=flat-square&logo=Mail.RU&logoColor=white&labelColor=c14438)](mailto:github_at_hanxv.com)
-> About my blog. I will update it again one day maybe. Contact me by email, telegram, mobile phone.
